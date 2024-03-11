@@ -98,6 +98,104 @@ function waitAndResponce(inputText) {
         case "about":
             sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https:\/\/instagram.com/kushimanent/'><span class='bold'>Khushi Choudhary</a> with ❤️</span>");
             break;
+            
+        case "hi":
+            sendTextMessage("Hello");
+            break;
+            
+        case "hello":
+            sendTextMessage("Hi");
+            break;
+            
+        case "hii":
+            sendTextMessage("Hello");
+            break;
+    
+        case "hey":
+            sendTextMessage("Hi");
+            break;
+    
+        case "how are you?":
+            sendTextMessage("I am good. How about you?");
+            break; 
+                
+        case "good":
+            sendTextMessage("NICE, How can I assist you?");
+            break; 
+              
+        case "fine":
+            sendTextMessage("NICE, How can I assist you?");
+            break; 
+    
+        case "great":
+            sendTextMessage("NICE, How can I assist you?");
+            break;
+                
+        case "i am good":
+            sendTextMessage("NICE, How can I assist you?");
+            break;
+    
+        case "i am fine":
+            sendTextMessage("NICE, How can I assist you?");
+            break;
+
+        case "where are you?":
+            sendTextMessage(addressString);
+            break;
+        
+        case "where are you":
+            sendTextMessage(addressString);
+                break;
+    
+        case "where is globency media?":
+            sendTextMessage(addressString);
+            break;
+        
+        case "where are u":
+            sendTextMessage(addressString);
+            break;
+    
+        case "who are you?":
+            sendTextMessage("I am a Khushi Chodhary's AI Bot.");
+            break;
+    
+        case "what are you doing?":
+            sendTextMessage("Talking to you.");
+            break;
+    
+        case "what are you doing":
+            sendTextMessage("Talking to you");
+            break;
+    
+        case "who made you?":
+            sendTextMessage("Khushi Choudhary made me.");
+            break;
+    
+        case "why did they made you?":
+            sendTextMessage("To talk to you.");
+            break;
+    
+        case "why are you here?":
+            sendTextMessage("To talk to you.");
+            break;
+    
+        case "i love you":
+            sendTextMessage("Thanks for showing your love! Lots of love from Khushi's AI Bot.");
+            break;   
+                
+        case "i love u":
+            sendTextMessage("Thanks for showing your love! Lots of love from Khushi's AI Bot.");
+            break;
+            
+    
+        case "i hate you":
+            sendTextMessage("So sorry for the inconvenience you had. I'll try to improve myself.");
+            break;
+    
+        case "i hate u":
+            sendTextMessage("So sorry for the inconvenience you had. I'll try to improve myself.");
+            break;
+
         case "contact":
             sendTextMessage(contactString);
             break;
