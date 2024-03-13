@@ -142,6 +142,10 @@ function waitAndResponce(inputText) {
         case "where are you?":
             sendTextMessage(addressString);
             break;
+
+        case "where are you":
+            sendTextMessage(addressString);
+            break;
         
         case "where are you":
             sendTextMessage(addressString);
