@@ -171,7 +171,7 @@ function waitAndResponce(inputText) {
             sendTextMessage("Khushi Choudhary made me.");
             break;
     
-        case "why did they made you?":
+        case "why did she made you?":
             sendTextMessage("To talk to you.");
             break;
     
