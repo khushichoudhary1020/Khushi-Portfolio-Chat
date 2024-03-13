@@ -99,7 +99,7 @@ function waitAndResponce(inputText) {
             sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https:\/\/instagram.com/kushimanent/'><span class='bold'>Khushi Choudhary</a> with ❤️</span>");
             break;
             
-        case "hi":
+        case "hi khushi":
             sendTextMessage("Hello");
             break;
             
