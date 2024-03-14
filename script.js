@@ -118,6 +118,10 @@ function waitAndResponce(inputText) {
         case "how are you?":
             sendTextMessage("I am good. How about you?");
             break; 
+
+        case "who are you":
+            sendTextMessage("I am Khushi Choudhary's AI Bot");
+            break;
                 
         case "good":
             sendTextMessage("NICE, How can I assist you?");
@@ -160,7 +164,7 @@ function waitAndResponce(inputText) {
             break;
     
         case "who are you?":
-            sendTextMessage("I am a Khushi Chodhary's AI Bot.");
+            sendTextMessage("I am Khushi Chodhary's AI Bot.");
             break;
     
         case "what are you doing?":
