@@ -199,6 +199,14 @@ function waitAndResponce(inputText) {
         case "i hate u":
             sendTextMessage("So sorry for the inconvenience you had. I'll try to improve myself.");
             break;
+        
+        case "i hate u?":
+            sendTextMessage("So sorry for the inconvenience you had. I'll try to improve myself.");
+            break;
+
+        case "i hate you?":
+            sendTextMessage("So sorry for the inconvenience you had. I'll try to improve myself.");
+            break;
 
         case "contact":
             sendTextMessage(contactString);
