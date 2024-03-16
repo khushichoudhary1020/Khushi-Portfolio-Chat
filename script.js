@@ -155,7 +155,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(addressString);
                 break;
     
-        case "where is globency media?":
+        case "where is khushi?":
             sendTextMessage(addressString);
             break;
         
