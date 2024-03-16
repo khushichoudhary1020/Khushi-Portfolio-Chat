@@ -102,6 +102,13 @@ function waitAndResponce(inputText) {
         case "hi khushi":
             sendTextMessage("Hello");
             break;
+        case "hi khushi choudhary":
+            sendTextMessage("Hello");
+            break;
+
+        case "hi kushi":
+            sendTextMessage("Hello");
+            break;
             
         case "hello":
             sendTextMessage("Hi");
