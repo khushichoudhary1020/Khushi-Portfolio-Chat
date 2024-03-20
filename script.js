@@ -132,7 +132,11 @@ function waitAndResponce(inputText) {
                 
         case "good":
             sendTextMessage("NICE, How can I assist you?");
-            break; 
+            break;
+            
+        case "i am good":
+            sendTextMessage("NICE, How can I assist you?");
+            break;
               
         case "fine":
             sendTextMessage("NICE, How can I assist you?");
