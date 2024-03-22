@@ -201,6 +201,14 @@ function waitAndResponce(inputText) {
         case "why are you here?":
             sendTextMessage("To talk to you.");
             break;
+
+        case "what are you doing khushi?":
+            sendTextMessage("To talk to you.");
+            break;
+
+        case "khushi":
+            sendTextMessage("Khushi is not available currently, tell me how can I assist you?");
+            break;    
     
         case "i love you":
             sendTextMessage("Thanks for showing your love! Lots of love from Khushi's AI Bot.");
